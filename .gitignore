@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[oc]
+dist/
+wheels/
+*.egg-info
+.env
+
+# 仮想環境
+.venv/
+
+# ネストされたgitリポジトリのメタデータ
+start/.git/
+start/.git_bak/
+
+# パッケージビルド成果物
+build/
+node_modules/
+
+# IDE
+.idea/
+.vscode/
